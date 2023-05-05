@@ -11,7 +11,7 @@ import { firstimages } from "../constants";
 const StyledSwiper = styled(Swiper)`
   background-color: #fff;
   width: 100%;
-  height: 80vh;
+  height: 100vh;
   cursor: grab;
   box-shadow: 5px 5px 10px gray;
 
