@@ -24,7 +24,7 @@ const StyledSwiper = styled(Swiper)`
 
     img {
       width: 100%;
-      height: auto;
+      height: 100vh;
       object-fit: cover;
     }
 
